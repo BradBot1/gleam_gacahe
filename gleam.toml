@@ -1,5 +1,5 @@
 name = "gacache"
-version = "1.0.0"
+version = "1.1.0"
 
 description = "A simple actor based cache for erlang environments in gleam"
 licences = ["Apache-2.0"]
